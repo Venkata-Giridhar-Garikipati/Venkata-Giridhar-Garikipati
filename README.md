@@ -12,6 +12,7 @@
 🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.36)      
 🔭 Currently building a projects using Deep Learning, Spring Boot and React.js  
 🌱 Exploring AI/ML, Web Development, Open Source
+
 👨‍💻 Passionate about tech, personal projects & coding challenges  
 ♟️ Solving real-world problems  
 📬 Reach me at: **venkatagiridhargarikipati@gmail.com**
@@ -92,12 +93,11 @@
 
 ## 🔧 Projects
 
-🔧 Projects
 
-📦 **Digital Bookstore Platform** – React.js, Spring Boot, MySQL
+📦 **Digital Bookstore Platform** – *React.js, Spring Boot, MySQL*
      Full-stack e-commerce app with JWT security, role-based access, cart, checkout, and an admin dashboard with analytics & inventory management.
 
-🤖 **AI-Powered Learning Management System** – Next.js, Drizzle ORM
+🤖 **AI-Powered Learning Management System** – *Next.js, Drizzle ORM*
      Scalable LMS with AI-generated study material and chatbot integration, reducing educator workload and serving 250+ users.
 
 🌾 **Crop Monitoring & Disease Detection** – Python, TensorFlow, Keras, CNNs
