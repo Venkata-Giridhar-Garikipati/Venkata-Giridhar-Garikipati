@@ -11,7 +11,7 @@
 ## 🚀 About Me
 🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.36)      
 🔭 Currently building a projects using Deep Learning, Spring Boot and React.js  
-🌱 Exploring AI/ML, Web Development, Open Source 
+🌱 Exploring AI/ML, Web Development, Open Source
 👨‍💻 Passionate about tech, personal projects & coding challenges  
 ♟️ Solving real-world problems  
 📬 Reach me at: **venkatagiridhargarikipati@gmail.com**
@@ -95,22 +95,22 @@
 🔧 Projects
 
 📦 **Digital Bookstore Platform** – React.js, Spring Boot, MySQL
-Full-stack e-commerce app with JWT security, role-based access, cart, checkout, and an admin dashboard with analytics & inventory management.
+     Full-stack e-commerce app with JWT security, role-based access, cart, checkout, and an admin dashboard with analytics & inventory management.
 
 🤖 **AI-Powered Learning Management System** – Next.js, Drizzle ORM
-Scalable LMS with AI-generated study material and chatbot integration, reducing educator workload and serving 250+ users.
+     Scalable LMS with AI-generated study material and chatbot integration, reducing educator workload and serving 250+ users.
 
 🌾 **Crop Monitoring & Disease Detection** – Python, TensorFlow, Keras, CNNs
-Achieved 92% accuracy on 100k+ plant images, deployed with real-time predictions and explainable AI insights for farmers.
+     Achieved 92% accuracy on 100k+ plant images, deployed with real-time predictions and explainable AI insights for farmers.
 
 💬 **AI Chatbot + Tic-Tac-Toe Game** – HTML, CSS, JS
-Lightweight chatbot with integrated mini-game (Tic-Tac-Toe) for interactive learning and fun.
+     Lightweight chatbot with integrated mini-game (Tic-Tac-Toe) for interactive learning and fun.
 
-🎬 **Sentury Military UI Clone** – HTML, CSS
-Static responsive front-end clone of Netflix’s homepage design.
+🎬 **Netflix UI Clone** – HTML, CSS
+     Static responsive front-end clone of Netflix’s homepage design.
 
 📊 **Interactive Dashboards** – R Programming, Power BI
-Built a Choropleth Map of India’s population in R and an analytics dashboard with Power BI using Kaggle datasets.
+    Built a Choropleth Map of India’s population in R and an analytics dashboard with Power BI using Kaggle datasets.
 
 
 ---
@@ -123,23 +123,23 @@ Built a Choropleth Map of India’s population in R and an analytics dashboard w
 ---
 
 ## 📊 GitHub Stats
-![Eswar's GitHub stats](https://github-readme-stats.vercel.app/api?username=venkataeswarachi&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkataeswarachi&layout=compact&theme=tokyonight)
+![Venkata Giridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkata-Giridhar-Garikipati&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkata-Giridhar-Garikipati&layout=compact&theme=tokyonight)
 
 ### 🔥 GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=venkataeswarachi&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Venkata-Giridhar-Garikipati&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 🏙️ GitHub Skyline (3D Contributions)
-[🔗 View My Skyline](https://skyline.github.com/venkataeswarachi)
+[🔗 View My Skyline](https://skyline.github.com/Venkata-Giridhar-Garikipati)
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkataeswarachi&theme=tokyo-night&area=true&hide_border=true&point=007acc&line=00bcd4&color=ffffff&bg_color=0d1117" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Venkata-Giridhar-Garikipati&theme=tokyo-night&area=true&hide_border=true&point=007acc&line=00bcd4&color=ffffff&bg_color=0d1117" alt="GitHub Contribution Graph" />
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=venkataeswarachi&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Venkata-Giridhar-Garikipati&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
