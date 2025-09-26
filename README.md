@@ -11,8 +11,7 @@
 ## 🚀 About Me
 🎓 Final-year B.Tech in CSE (AI & ML) @ VVIT (CGPA: 8.36)      
 🔭 Currently building a projects using Deep Learning, Spring Boot and React.js  
-🌱 Exploring AI/ML, Web Development, Open Source
-
+🌱 Exploring AI/ML, Web Development, Open Source    
 👨‍💻 Passionate about tech, personal projects & coding challenges  
 ♟️ Solving real-world problems  
 📬 Reach me at: **venkatagiridhargarikipati@gmail.com**
@@ -86,10 +85,6 @@
 
 ---
 
-## 🌟 Achievements
-
-
----
 
 ## 🔧 Projects  
 
@@ -110,14 +105,6 @@
 
 - 📊 **Interactive Dashboards** – *R Programming, Power BI*  
   Built a Choropleth Map of India’s population in R and an analytics dashboard with Power BI using Kaggle datasets.  
-
-
----
-
-## 📂 Open Source Contributions
-- 🔗 [Contributed to CodeMacrocosm](https://github.com/CodeMacrocosm)  
-- 🔧 Working on PRs related to PHP, WordPress, JavaScript & documentation  
-- 📢 Open to collaborating on real-world problems and contributions to RtCamp/WordPress projects  
 
 ---
 
