@@ -91,26 +91,25 @@
 
 ---
 
-## 🔧 Projects
+## 🔧 Projects  
 
+- 📦 **Digital Bookstore Platform** – *React.js, Spring Boot, MySQL*  
+  Full-stack e-commerce app with JWT security, role-based access, cart, checkout, and an admin dashboard with analytics & inventory management.  
 
-📦 **Digital Bookstore Platform** – *React.js, Spring Boot, MySQL*
-     Full-stack e-commerce app with JWT security, role-based access, cart, checkout, and an admin dashboard with analytics & inventory management.
+- 🤖 **AI-Powered Learning Management System** – *Next.js, Drizzle ORM*  
+  Scalable LMS with AI-generated study material and chatbot integration, reducing educator workload and serving 250+ users.  
 
-🤖 **AI-Powered Learning Management System** – *Next.js, Drizzle ORM*
-     Scalable LMS with AI-generated study material and chatbot integration, reducing educator workload and serving 250+ users.
+- 🌾 **Crop Monitoring & Disease Detection** – *Python, TensorFlow, Keras, CNNs*  
+  Achieved 92% accuracy on 100k+ plant images, deployed with real-time predictions and explainable AI insights for farmers.  
 
-🌾 **Crop Monitoring & Disease Detection** – Python, TensorFlow, Keras, CNNs
-     Achieved 92% accuracy on 100k+ plant images, deployed with real-time predictions and explainable AI insights for farmers.
+- 💬 **AI Chatbot + Tic-Tac-Toe Game** – *HTML, CSS, JS*  
+  Lightweight chatbot with integrated mini-game (Tic-Tac-Toe) for interactive learning and fun.  
 
-💬 **AI Chatbot + Tic-Tac-Toe Game** – HTML, CSS, JS
-     Lightweight chatbot with integrated mini-game (Tic-Tac-Toe) for interactive learning and fun.
+- 🎬 **Netflix UI Clone** – *HTML, CSS*  
+  Static responsive front-end clone of Netflix’s homepage design.  
 
-🎬 **Netflix UI Clone** – HTML, CSS
-     Static responsive front-end clone of Netflix’s homepage design.
-
-📊 **Interactive Dashboards** – R Programming, Power BI
-    Built a Choropleth Map of India’s population in R and an analytics dashboard with Power BI using Kaggle datasets.
+- 📊 **Interactive Dashboards** – *R Programming, Power BI*  
+  Built a Choropleth Map of India’s population in R and an analytics dashboard with Power BI using Kaggle datasets.  
 
 
 ---
