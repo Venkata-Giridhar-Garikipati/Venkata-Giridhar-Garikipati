@@ -125,7 +125,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Venkata-Giridhar-Garikipati&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Venkata-Giridhar-Garikipati&theme=gruvbox)](https://github.com/Venkata-Giridhar-Garikipati/github-profile-trophy)
 
 ---
 
