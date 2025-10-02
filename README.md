@@ -2,7 +2,7 @@
 
 **Full Stack Developer | AI/ML Engineer | Open Source Contributor**
 
-📍 Location: India | 📧 venkatagiridhargarikipati@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/Venkata-Giridhar-Garikipati) | 🔗 [GitHub](https://github.com/Venkata-Giridhar-Garikipati)
+📍 Location: India | 📧 venkatagiridhargarikipati@gmail.com | 💼 [Portfolio](https://portofolio-sable-eta.vercel.app/) |💼 [LinkedIn](https://www.linkedin.com/in/Venkata-Giridhar-Garikipati) | 🔗 [GitHub](https://github.com/Venkata-Giridhar-Garikipati)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Venkata-Giridhar-Garikipati&label=Profile%20Views&color=1abc9c&style=flat-square" alt="Profile Views" />
@@ -51,7 +51,7 @@ Results-driven Computer Science Engineering student specializing in AI & ML with
 
 ## 🚀 Featured Projects
 
-### 1. Digital Bookstore Platform | [View Demo](#)
+### 1. Digital Bookstore Platform | [Repository](https://github.com/Venkata-Giridhar-Garikipati/bookstore-backend)
 **Tech Stack:** React.js, Spring Boot, MySQL, JWT, Spring Security
 
 A comprehensive e-commerce solution with enterprise-grade features:
@@ -66,8 +66,8 @@ A comprehensive e-commerce solution with enterprise-grade features:
 
 ---
 
-### 2. AI-Powered Learning Management System | [View Demo](#)
-**Tech Stack:** Next.js, Drizzle ORM, PostgreSQL, OpenAI API, TypeScript
+### 2. AI-Powered Learning Management System | [Repository](https://github.com/Venkata-Giridhar-Garikipati/Smart-Study)
+**Tech Stack:** Next.js, Drizzle ORM, PostgreSQL, Gemini API, JavaScript
 
 Intelligent LMS platform revolutionizing education:
 - 🤖 AI-generated study materials and quizzes using GPT-4
@@ -80,8 +80,8 @@ Intelligent LMS platform revolutionizing education:
 
 ---
 
-### 3. Crop Disease Detection System | [View Demo](#)
-**Tech Stack:** Python, TensorFlow, Keras, CNNs, Flask, OpenCV
+### 3. Crop Disease Detection System | [Repository](https://github.com/Varshini013/AI-Based-Crop-Care)
+**Tech Stack:** Python, TensorFlow, Keras, CNNs, MERN Stack, OpenCV
 
 Deep learning solution for agricultural disease detection:
 - 🌾 Trained CNN model on 100,000+ plant images across 38 disease classes
