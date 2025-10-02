@@ -5,7 +5,7 @@
 📍 Location: India | 📧 venkatagiridhargarikipati@gmail.com | 💼 [LinkedIn](https://www.linkedin.com/in/Venkata-Giridhar-Garikipati) | 🔗 [GitHub](https://github.com/Venkata-Giridhar-Garikipati)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=venkatagridhargarikipati&label=Profile%20Views&color=1abc9c&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Venkata-Giridhar-Garikipati&label=Profile%20Views&color=1abc9c&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
